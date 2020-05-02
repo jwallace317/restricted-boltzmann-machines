@@ -1,6 +1,8 @@
-# ignore python virtual environments
-env/
+# ignore python virtual environment
 venv/
 
 # ignore python cached files
-__pycache__
+__pycache__/
+
+# ignore included pdfs
+*.pdf
